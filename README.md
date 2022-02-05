@@ -3,4 +3,5 @@
 nama yang berkontribsi
 - yuanda
 - hanif
+- risto
 - hisyam
